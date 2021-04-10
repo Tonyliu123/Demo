@@ -1,0 +1,32 @@
+{
+   "appDefaultTitle": {
+      "message": "File Converter & Compressor - UniConverter"
+   },
+   "appDesc": {
+      "message": "Convert, compress, edit video, audio, image files online in over 1000 formats."
+   },
+   "labelVideoConverter": {
+      "message": "Video Converter"
+   },
+   "labelAudioConverter": {
+      "message": "Audio Converter"
+   },
+   "labelImageConverter": {
+      "message": "Image Converter"
+   },
+   "labelAudioCompressor": {
+      "message": "Video Compressor"
+   },
+   "labelAudioCompressor": {
+      "message": "Audio Compressor"
+   },
+   "labelImageCompressor": {
+      "message": "Image Compressor"
+   },
+   "labelGIFMaker": {
+      "message": "GIF Maker"
+   },
+   "labelMuteVideo": {
+      "message": "Video Muter"
+   }
+}
